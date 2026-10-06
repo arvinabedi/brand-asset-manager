@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Role** | Product owner and UX lead, with one developer. I owned the brief, the information architecture, the partner-portal and admin redesign, the pre-release audit, and deployment. |
+| **Role** | Product owner and UX lead, built with [Sam Mehrany](https://sammehrany.com), who wrote most of the code. I owned the brief, the information architecture, the partner-portal and admin redesign, the pre-release audit, and deployment. |
 | **When** | July – September 2026 |
 | **Stack** | Next.js 16, React 19, TypeScript, self-hosted Supabase (Postgres, auth, storage), Drizzle, sharp, nginx, self-hosted CI runner |
 | **Size** | ~79,000 lines · 220 commits · 28 merged pull requests |
